@@ -1,0 +1,29 @@
+.form {
+	fieldset {
+		padding: 0;
+	}
+	&__secondarycontent,
+	&__content {
+		padding: 20px 20px 10px 20px;
+		&--field {
+			padding-left: 0;
+			margin-bottom: 10px;
+			.btn {
+				width: 100%;
+			}
+		}
+		&--submit {
+			padding-right: 0;
+			margin-bottom: 10px;
+			.btn {
+				width: 100%;
+			}
+		}
+	}
+	&__secondarycontent {
+		padding: 20px 0 0 0;
+	}
+}
+.btn-outline-secondary {
+	border-color: $gray-light;
+}

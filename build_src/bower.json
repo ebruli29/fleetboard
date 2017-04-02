@@ -1,0 +1,10 @@
+{
+  "name": "FlEETWEB",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "html5shiv": "*",
+    "modernizr": "*",
+    "jquery": "*",
+    "fontawesome": "*"
+  }
+}

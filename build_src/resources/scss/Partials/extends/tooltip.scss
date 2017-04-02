@@ -1,0 +1,18 @@
+.tooltip {
+	width: 432px;
+	.tooltip-inner {
+		padding: 10px 10%;
+		max-width: 100%;
+		width: 100%;
+	}
+	&.bs-tether-element-attached-bottom,
+	&.tooltip-top {
+		.tooltip-inner {
+			&::before {
+				left: 93%;
+			}
+		}
+	}
+}
+
+

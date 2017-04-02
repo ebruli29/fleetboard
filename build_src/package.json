@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-bless": "3.0.1",
+    "gulp-clean": "*",
+    "gulp-concat": "*",
+    "gulp-cssimport": "*",
+    "gulp-filesize": "*",
+    "gulp-help": "^1.6.1",
+    "gulp-gzip": "*",
+    "gulp-jshint": "^2.0.1",
+    "gulp-sass": "*",
+    "gulp-load-plugins": "*",
+    "gulp-minify-css": "*",
+    "gulp-rename": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-stylestats": "*",
+    "gulp-uglifyjs": "*",
+    "gulp-util": "*",
+    "gulp-watch": "*",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "*",
+    "require-dir": "^0.3.0",
+    "es6-promise": "*"
+  }
+}

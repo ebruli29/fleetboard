@@ -1,0 +1,12 @@
+.modal {
+	.close {
+		position: absolute;
+		right: 10px;
+		top: 10px;
+		z-index: 10
+	}
+}
+.modal-content {
+	padding: 4.5em 2em 2em 2em;
+	color: $modal-text-color;
+}
